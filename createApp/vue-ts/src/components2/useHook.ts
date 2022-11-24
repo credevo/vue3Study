@@ -25,7 +25,7 @@ const useHook = () => {
 
   return {
     // ...state,
-    arr,
+    aref,
   };
 };
 
